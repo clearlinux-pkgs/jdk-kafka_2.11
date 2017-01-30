@@ -1,6 +1,6 @@
 Name     : jdk-kafka_2.11
 Version  : 0.10.0.0
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/apache/kafka/kafka_2.11/0.10.0.0/kafka_2.11-0.10.0.0.jar
 Source0  : http://repo1.maven.org/maven2/org/apache/kafka/kafka_2.11/0.10.0.0/kafka_2.11-0.10.0.0.jar
 Source1  : http://repo1.maven.org/maven2/org/apache/kafka/kafka_2.11/0.10.0.0/kafka_2.11-0.10.0.0.pom
